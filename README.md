@@ -1,4 +1,4 @@
-# practice-notes
+# Data-analysis-practice-notes
 
 Resources consulted:
 
